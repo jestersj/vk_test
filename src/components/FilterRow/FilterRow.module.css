@@ -1,0 +1,13 @@
+.cont {
+    display: flex;
+    gap: 20px;
+}
+.col {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.col label {
+    display: flex;
+    gap: 10px;
+}

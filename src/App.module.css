@@ -1,0 +1,11 @@
+.cont {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.text-center {
+    text-align: center;
+}
+.list {
+    background: #bebebe;
+}
